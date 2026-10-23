@@ -1,0 +1,1 @@
+In this project, I engineered a Python pipeline to process complex, nested JSON data from an API source. Using Pandas json_normalize, I flattened the hierarchical structures, cleaned the extracted fields, handled missing keys dynamically, and loaded the final structured dataset into a tabular CSV format ready for SQL ingestion or BI analysis."
